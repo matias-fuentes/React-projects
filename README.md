@@ -1,9 +1,13 @@
 # Published projects
 
-NextEventer: https://nexteventer.vercel.app/
+## URL's
 
-NextEventer repo: https://github.com/matias-fuentes/NextEventer
+- NextEventer: https://nexteventer.vercel.app/
 
-Worldwide Meetups: https://worldwide-meetups.herokuapp.com/
+- Worldwide Meetups: https://worldwide-meetups.herokuapp.com/
 
-Worldwide Meetups repo: https://github.com/matias-fuentes/Worldwide-Meetups
+## Repo's
+
+- NextEventer: https://github.com/matias-fuentes/NextEventer
+
+- Worldwide Meetups: https://github.com/matias-fuentes/Worldwide-Meetups
