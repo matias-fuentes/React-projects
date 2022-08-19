@@ -2,16 +2,16 @@
 
 ## URLs
 
-- NextEventer: https://nexteventer.vercel.app/
-
 - Worldwide Meetups: https://worldwidemeetups.herokuapp.com/
 
 - Crudemon: http://crudemon.herokuapp.com/
 
-## Repositories
+- FlashTask: https://flashtask.herokuapp.com/
 
-- NextEventer: https://github.com/matias-fuentes/NextEventer
+## Repositories
 
 - Worldwide Meetups: https://github.com/matias-fuentes/WorldwideMeetups
 
 - Crudemon: https://github.com/matias-fuentes/Crudemon
+
+- FlashTask: https://github.com/matias-fuentes/FlashTask
