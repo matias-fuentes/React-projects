@@ -1,4 +1,4 @@
-# Demo projects published for learning purposes
+# Demo published projects for learning purposes
 
 ## URLs
 
