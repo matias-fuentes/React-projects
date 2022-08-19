@@ -1,4 +1,4 @@
-# Published projects
+# More elaborated published projects
 
 NextEventer: https://nexteventer.vercel.app/
 
