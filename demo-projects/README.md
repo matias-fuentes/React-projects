@@ -2,16 +2,16 @@
 
 ## URLs
 
-- Worldwide Meetups: https://worldwidemeetups.herokuapp.com/
+-   Worldwide Meetups: https://worldwidemeetups.vercel.app/
 
-- Crudemon: http://crudemon.herokuapp.com/
+-   Crudemon: http://crudemon.vercel.app
 
-- FlashTask: https://flashtask.herokuapp.com/
+-   FlashTask: https://flashtask.vercel.app
 
 ## Repositories
 
-- Worldwide Meetups: https://github.com/matias-fuentes/WorldwideMeetups
+-   Worldwide Meetups: https://github.com/matias-fuentes/WorldwideMeetups
 
-- Crudemon: https://github.com/matias-fuentes/Crudemon
+-   Crudemon: https://github.com/matias-fuentes/Crudemon
 
-- FlashTask: https://github.com/matias-fuentes/FlashTask
+-   FlashTask: https://github.com/matias-fuentes/FlashTask
